@@ -73,3 +73,4 @@ playGame('lizard');
 displayScore();
 //playGame(getComputerChoice());
 //playGame('bomb');
+//playGame('bomb');
